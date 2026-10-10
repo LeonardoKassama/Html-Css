@@ -9,6 +9,12 @@
 }
 
 /* Estilos */
+
+/* * {
+    padding: 0px;
+    margin: 0px;
+} */
+
 .menu-item {
     color: white;
     text-decoration: none;
@@ -114,7 +120,7 @@ nav {
 main {
     background-color: white;
     max-width: 900px;
-    min-width: 400px;
+    min-width: 320px;
     margin: auto;
     padding: 20px;
     text-align: justify;
